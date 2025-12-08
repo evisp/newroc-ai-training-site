@@ -35,10 +35,30 @@ theme:
 
 nav:
   - Home: index.md
+
   - Sessions:
-      - Session 1 – AI basics: sessions/session1.md
+      - Session 1 – AI for everyday project work:
+          - Overview: sessions/session1/index.md
+          - What AI can and can’t do: sessions/session1/ai-fundamentals.md
+          - 5-step prompting pattern: sessions/session1/5-step-pattern.md
+          - Live demos: sessions/session1/demos.md
+          - Practice & exercises: sessions/session1/exercises.md
+      - Session 2 – Understanding AI agents:
+          - Overview: sessions/session2/index.md
+      - Session 3 – AI in your team’s workflows:
+          - Overview: sessions/session3/index.md
+
   - Workflows:
-      - Spec → “Spec at a glance”: workflows/spec-at-a-glance.md
+      - Overview: workflows/index.md
+
+  - Tools:
+      - Overview: tools/index.md
+
+  - Resources:
+      - Overview: resources/index.md
+
+
+
 
 markdown_extensions:
   - admonition

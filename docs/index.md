@@ -6,4 +6,3 @@ Use this site to revisit session content, see example prompts, and reuse simple 
 
 - Start with [Session 1 – AI basics](sessions/session1.md)
 - Try your first workflow card: [Spec → “Spec at a glance”](workflows/spec-at-a-glance.md)
-
