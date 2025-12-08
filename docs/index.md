@@ -14,4 +14,4 @@ You’ll find simple ways to use AI to handle project information faster and mor
 
 > Remember: AI is a invaluable helper. But you are still the one in charge.
 
-![AI as Helper](https://i.imgur.com/tDaUwTc.png)
+![AI as Helper](https://i.imgur.com/U4TGHq9.png)
