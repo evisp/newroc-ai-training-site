@@ -1,0 +1,52 @@
+# MkDocs build output
+site/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv/
+venv/
+env/
+pip-wheel-metadata/
+*.egg-info/
+dist/
+build/
+
+# VS Code workspace settings (optional – keep if you don't want to share)
+.vscode/
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Node (if ever used)
+node_modules/
+
+# Microsoft Office – ignore temporary and main files
+# (so you don’t accidentally commit slides or working docs)
+*.doc
+*.docx
+*.ppt
+*.pptx
+*.xls
+*.xlsx
+
+# Office temp files
+~$*.doc*
+~$*.ppt*
+~$*.xls*
+
+# Archives and binaries
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.rar
+*.7z
+*.exe
+*.dll
+*.log

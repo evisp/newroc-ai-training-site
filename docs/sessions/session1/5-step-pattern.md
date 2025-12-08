@@ -98,7 +98,7 @@ In the live training, we will practise this by comparing AI answers to real spec
 
 Here is a plain-language template you can adapt for most tasks:
 
-> **Task:** [Summarise / List / Extract / Find / Explain] 
+> **Task:** [Summarise / List / Extract / Find / Explain] …  
 > **Context:** [Project, document type, section/pages, why you need it]  
 > **Constraints:** [What to focus on, what to ignore]  
 > **Output format:** [Bullets, short paragraph, or table with named columns]  
@@ -115,6 +115,6 @@ In the next pages, we'll use this pattern in live demos and group exercises:
 - See it applied: [Live demos](demos.md)  
 - Try it yourself: [Practice & exercises](exercises.md)
 
-> Clear prompts are just clear thinking written down – AI simply makes that thinking faster to use on real projects.
+> Clear prompts are just clear thinking written down. AI simply makes that thinking faster to use on real projects.
 
 ![AI Good Prompts](https://i.imgur.com/3b71ENR.png)
