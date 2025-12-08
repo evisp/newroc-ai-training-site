@@ -3,7 +3,7 @@
 AI is joining your day-to-day work at New Roc to make handling information easier, not harder.  
 This page explains, in plain terms, what AI is good for, where it struggles, and how we'll use it in this training.
 
-[AI at New Roc](https://i.imgur.com/U4TGHq9.png)
+![AI at New Roc](https://i.imgur.com/U4TGHq9.png)
 
 
 ## Why this matters for New Roc
@@ -32,23 +32,23 @@ AI is most useful when the task is about reading, rephrasing, and structuring te
 
 Typical `good at` areas:
 
-- **Reading and rephrasing**
+**Reading and rephrasing**
 
-  - Summaries such as "Spec at a glance" for a section.  
-  - Simple explanations of clauses in plain language.
-  - Rewriting emails to be shorter and clearer.
+- Summaries such as "Spec at a glance" for a section.  
+- Simple explanations of clauses in plain language.
+- Rewriting emails to be shorter and clearer.
 
-- **Structuring information**
+**Structuring information**
 
-  - Turning parts of a spec into a table (item, section, notes).  
-  - Listing submittals, RFIs, or actions from raw text.  
-  - Grouping similar items together (e.g., similar line items from a takeoff export).
+- Turning parts of a spec into a table (item, section, notes).  
+- Listing submittals, RFIs, or actions from raw text.  
+- Grouping similar items together (e.g., similar line items from a takeoff export).
 
-- **Drafting first versions**
+**Drafting first versions**
 
-  - Draft email updates based on bullet points or a table.  
-  - Draft scope notes or transmittal notes to be checked and edited.  
-  - Draft short summaries for meeting notes or weekly digests.
+- Draft email updates based on bullet points or a table.  
+- Draft scope notes or transmittal notes to be checked and edited.  
+- Draft short summaries for meeting notes or weekly digests.
 
 A useful way to see it: **AI is like a fast junior assistant that works with text**. It drafts and organises; you review and decide.
 
@@ -62,19 +62,19 @@ Knowing where it struggles helps you use it safely.
 
 Common weak spots:
 
-- **Confident mistakes on details**  
+**Confident mistakes on details**  
 
   It can get numbers, dates, and clause references wrong, especially in long or complex documents.
 
-- **Mixing old and new information**  
+**Mixing old and new information**  
 
   If the context is not clear (which version, which project), AI may mix up outdated notes with current requirements.
 
-- **Ambiguous or missing information**  
+**Ambiguous or missing information**  
 
   When a spec is vague or silent on a point, AI may "guess" an answer instead of saying that the information is not there.
 
-- **Not knowing New Roc’s internal decisions**  
+**Not knowing New Roc’s internal decisions**  
 
   AI does not know your internal conversations, approvals, or risk decisions unless you give it that information.
 
@@ -99,21 +99,21 @@ AI helps you get to a good draft faster.
 
 A few plain rules keep AI use safe and professional:
 
-- **Protect sensitive information**  
+**Protect sensitive information**  
 
-  `Do not paste private, confidential, or highly sensitive data` into tools that have not been approved for that type of information.
+`Do not paste private, confidential, or highly sensitive data` into tools that have not been approved for that type of information.
 
-- **Treat outputs as drafts**  
+**Treat outputs as drafts**  
 
-  AI answers are starting points, not final answers. Review them just as you would review text from a junior colleague.
+AI answers are starting points, not final answers. Review them just as you would review text from a junior colleague.
 
-- **Check important details**  
+**Check important details**  
 
-  For anything that could affect cost, time, or risk, read the actual clause, section, or email thread yourself before acting.
+For anything that could affect cost, time, or risk, read the actual clause, section, or email thread yourself before acting.
 
-- **Ask when unsure**  
+**Ask when unsure**  
 
-  If something feels off, ask a colleague or manager rather than relying on the AI's wording.
+If something feels off, ask a colleague or manager rather than relying on the AI's wording.
 
 These rules apply across all three sessions, no matter which tool you are using.
 
@@ -123,6 +123,6 @@ These rules apply across all three sessions, no matter which tool you are using.
 The next page introduces the 5-step prompting pattern we will use throughout the training.  
 It is a simple checklist for how to ask AI for help in a way that fits New Roc’s work.
 
-- Continue to: [5-step prompting pattern](5-step-pattern.md)
+Continue to: [5-step prompting pattern](5-step-pattern.md)
 
 > AI should make your work lighter, not riskier - the fundamentals here keep it that way.
