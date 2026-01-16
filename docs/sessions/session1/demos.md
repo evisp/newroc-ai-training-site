@@ -86,30 +86,28 @@ It turns a plain request into a structured prompt with:
 Convert the request below into a practical, job-ready deliverable.
 
 **CONTEXT**  
-- Project: <TBD>  
-- Spec/standard basis: <Section / date>  
-- Stakeholders: <Owner / Architect / CM / AHJ / testing agency>  
-- Assumptions/placeholders: <List what is missing>
+- Project: *TBD*
+- Spec/standard basis: *Section / date*  
+- Stakeholders: *Owner / Architect / CM / AHJ / testing agency*
+- Assumptions/placeholders: *List what is missing*
 
 **CONSTRAINTS**  
 - Use only the document text I provide.  
-- Do not invent project facts; use placeholders like <TBD>.  
+- Do not invent project facts; use placeholders like *TBD*  
 - Do not quote spec text verbatim; write original, field-ready instructions.  
 - Keep it practical and executable (steps, roles, timing, templates).  
 
 **OUTPUT FORMAT (IN THIS ORDER)**  
-A) <Deliverable 1>  
-B) <Deliverable 2>  
-C) <Tables/templates with required column headers>  
+A) *Deliverable 1*  
+B) *Deliverable 2*
+C) *Tables/templates with required column headers*
 
 **VERIFICATION**  
 - YES/NO checklist confirming the output meets the request.  
 - Missing Inputs Needed (who must provide what).
 
 **EMPLOYEE REQUEST (RAW)**  
-<<<  
-Paste the employee request here.  
->>>
+`Paste the employee request here.`
 
 For the full "Prompt Builder" version (with stricter rules and formatting), use the internal [Google Drive link](https://drive.google.com/drive/folders/1BzornliazSVh5qxljQ-vz22KFNmRFed9?usp=drive_link)
 
