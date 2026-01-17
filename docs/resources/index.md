@@ -12,14 +12,14 @@ This page collects the short videos and PDFs that support the training sessions.
 
     **Videos (short)**
     - :fontawesome-brands-youtube: **AI Fundamentals** (what AI is good/bad at + safety basics)  
-      [Watch video](VIDEO_LINK_1)
+      [Watch video](https://youtu.be/Sbk9LxQq2II)
 
     - :fontawesome-brands-youtube: **The 5-step prompting pattern** (Task → Context → Constraints → Output → Verification)  
-      [Watch video](VIDEO_LINK_2)
+      [Watch video](https://youtu.be/60EbdRyhn44)
 
     **Slides**
     - :material-file-pdf-box: Slides (PDF)  
-      [Open / download](SLIDES_PDF_LINK)
+      [Open / download](./slides/1.AI_Basics.pdf)
 
     **Best next step**
     - :material-play-circle-outline: Go practice on a spec excerpt: [Session 1 – Practice & exercises](../sessions/session1/exercises.md)
