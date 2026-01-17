@@ -1,32 +1,38 @@
 # Sessions overview
 
-This part of the site gives a clear roadmap for the three AI training sessions at New Roc.
+This site is your attendee playbook for New Roc’s AI training — short, practical, and built around real project documents. [web:117]
 
-Together, the sessions move from getting comfortable with AI on real project work, to using AI agents to organize information and updates, and finally to applying these habits inside each team's day‑to‑day workflows.
+!!! info "How to use this site"
+    - Start with **Session 1** and follow the pages in order (Overview → Fundamentals → 5-step pattern → Demos → Exercises). [web:117]
+    - Use the **Practice & exercises** page to build one repeatable habit: faster work **without guessing**. [web:117]
 
-## Session 1 – AI for everyday project work
+## Session 1 (available now)
 
-Use AI as a helper on real specs, emails, and contracts.
+<div class="grid cards" markdown>
 
-- See what the session covers: [Overview](session1/index.md)  
-- Learn the basics: [What AI can and can’t do](session1/ai-fundamentals.md)  
-- Build good habits: [5-step prompting pattern](session1/5-step-pattern.md)  
-- Watch it in action: [Live demos](session1/demos.md)  
-- Try it yourself: [Practice & exercises](session1/exercises.md)  
+-   :material-rocket-launch: **Session 1 – AI for everyday project work**  
+    Use AI as a helper on real specs, emails, and contracts — with verification.  
 
-## Session 2 – Understanding AI agents
+    - [Overview](session1/index.md)  
+    - [What AI can and can’t do](session1/ai-fundamentals.md)  
+    - [5-step prompting pattern](session1/5-step-pattern.md)  
+    - [Live demos](session1/demos.md)  
+    - [Practice & exercises](session1/exercises.md)
 
-See how AI agents can help turn messy information into clearer updates and simple next steps.
+</div>  
+[web:98]
 
-- Session plan and examples: [Overview](session2/index.md)
+## Next sessions (coming soon)
 
-## Session 3 – AI in your team’s workflows
+!!! warning "Coming soon"
+    Sessions 2 and 3 will be added week-by-week after we deliver Session 1. [web:117]
 
-Get a taste of how the same patterns apply in Estimating, Architecture, and Management.
+- **Session 2 – Understanding AI agents**  
+  See how AI can turn messy information into clearer updates and simple next steps.  
 
-- Session plan and lab ideas: [Overview](session3/index.md)
+- **Session 3 – AI in your team’s workflows**  
+  Apply the same patterns in Estimating, Architecture, and Management.
 
-
-> Let AI handle the busywork, so you can focus on building the project, not just the paperwork
+> Let AI handle the busywork, so you can focus on building the project — not just the paperwork.
 
 ![AI Assistant](https://i.imgur.com/7h2bwlM.png)
