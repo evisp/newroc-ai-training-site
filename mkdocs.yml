@@ -51,10 +51,10 @@ nav:
   #  - Templates: sessions/session2/templates.md
 
   - Resources:
-      - Overview: resources/index.md
+    - Overview: resources/index.md
 
   - Templates:
-      - Overview: templates/index.md
+    - Overview: templates/index.md
 
 
 
