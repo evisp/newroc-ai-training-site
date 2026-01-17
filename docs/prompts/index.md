@@ -6,9 +6,11 @@ Use this page as a quick reference for “what good looks like” when prompting
     The complete Prompt Playbook (all use cases + full Prompt Builder template) lives in [Google Drive](https://docs.google.com/document/d/1Yb-2WvCVzolVvYIPCQPl_bWH8yYfs_62r8xMiSMoH8Y/edit?usp=drive_link)
     
 
+
 ## One example (Session 1)
 
 Below is one full example (bad prompt vs good prompt) to model the habits from Session 1: tight scope, job-ready output, and verification.  
+
 
 ??? example "Use case: Section 013300 — Submittal quick checklist + schedule template"
     **Goal:** Turn Section 013300 into a practical checklist and a “submittal schedule” table that PMs/supers can use during project setup.
