@@ -17,12 +17,12 @@ This page is a quick field guide: what AI is good for, where it fails, and the r
 On most projects, a lot of time goes into reading and re-reading specs, contracts, emails, and logs just to find the few lines that matter.    
 AI can help you search, summarise, and organise this information faster, while you stay in control of the decisions.  
 
-In this training, AI is a helper inside tools you already know (browser, PDF viewer, email, Excel) — not a new system you have to learn from scratch.  
+In this training, AI is a helper inside tools you already know (browser, PDF viewer, email, Excel) - not a new system you have to learn from scratch.  
 
 ## What AI is (in simple words)
 
 AI is a text assistant: you give it text plus a clear task, and it produces a draft answer in words, lists, or tables.    
-It can be very helpful — and it can also be confidently wrong — so we use it with structure and verification.  
+It can be very helpful  - and it can also be confidently wrong  - so we use it with structure and verification.  
 
 **Construction-flavored examples**
 - Turn a spec section into a “Spec at a glance” summary you can skim.  
@@ -77,7 +77,7 @@ The safer habit is to translate each pitfall into one simple operating rule.
 > **What it looks like:** AI can’t reflect internal approvals, means-and-methods decisions, or risk calls unless you provide them.    
 > **Do instead:** add your internal direction explicitly (or leave it out and escalate to the team).  
 
-Because of these limits, AI is not a source of truth — it is a drafting and organising tool that still needs judgement and verification.  
+Because of these limits, AI is not a source of truth  - it is a drafting and organising tool that still needs judgement and verification.  
 
 ![AI Pitfalls](https://i.imgur.com/ePDgYzh.png)
 
@@ -101,8 +101,8 @@ You stay responsible for what is sent, logged, or agreed; AI helps you get to a 
 
 ## What’s next
 
-Next is the 5-step prompting pattern we will use throughout the training — a simple checklist for getting useful, verifiable output.  
+Next is the 5-step prompting pattern we will use throughout the training  - a simple checklist for getting useful, verifiable output.  
 
 Continue to: [5-step prompting pattern](5-step-pattern.md)  
 
-> AI should make your work lighter, not riskier — these fundamentals keep it that way.  
+> AI should make your work lighter, not riskier  - these fundamentals keep it that way.  
