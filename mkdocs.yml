@@ -50,11 +50,11 @@ nav:
   #  - Practice & exercises: sessions/session2/exercises.md
   #  - Templates: sessions/session2/templates.md
 
-  #- Tools:
-  #    - Overview: tools/index.md
-
   - Resources:
       - Overview: resources/index.md
+
+  - Templates:
+      - Overview: tools/index.md
 
 
 
