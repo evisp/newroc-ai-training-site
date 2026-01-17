@@ -4,6 +4,7 @@ Use this page as a quick reference for “what good looks like” when prompting
 
 !!! info "Where to find the full playbook"
     The complete Prompt Playbook (all use cases + full Prompt Builder template) lives in [Google Drive](https://docs.google.com/document/d/1Yb-2WvCVzolVvYIPCQPl_bWH8yYfs_62r8xMiSMoH8Y/edit?usp=drive_link)
+    
 
 ## One example (Session 1)
 
