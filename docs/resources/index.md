@@ -11,6 +11,7 @@ This page collects the short videos and PDFs that support the training sessions.
 -   :material-hammer-wrench: **Session 1 – AI for everyday project work**
 
     **Videos (short)**
+
     - :fontawesome-brands-youtube: **AI Fundamentals** (what AI is good/bad at + safety basics)  
       [Watch video](https://youtu.be/Sbk9LxQq2II)
 
@@ -18,10 +19,12 @@ This page collects the short videos and PDFs that support the training sessions.
       [Watch video](https://youtu.be/60EbdRyhn44)
 
     **Slides**
+
     - :material-file-pdf-box: Slides (PDF)  
       [Open / download](./slides/1.AI_Basics.pdf)
 
     **Best next step**
+    
     - :material-play-circle-outline: Go practice on a spec excerpt: [Session 1 – Practice & exercises](../sessions/session1/exercises.md)
 
 </div>
