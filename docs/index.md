@@ -13,14 +13,13 @@ This site is your attendee playbook for New Roc’s AI training  - short, practi
 -   :material-rocket-launch: **Session 1 – AI for everyday project work**  
     Use AI as a helper on real specs, emails, and contracts  - with verification.  
 
-    - [Overview](session1/index.md)  
-    - [What AI can and can’t do](session1/ai-fundamentals.md)  
-    - [5-step prompting pattern](session1/5-step-pattern.md)  
-    - [Live demos](session1/demos.md)  
-    - [Practice & exercises](session1/exercises.md)
+    - [Overview](sessions/session1/index.md)  
+    - [What AI can and can’t do](sessions/session1/ai-fundamentals.md)  
+    - [5-step prompting pattern](sessions/session1/5-step-pattern.md)  
+    - [Live demos](sessions/session1/demos.md)  
+    - [Practice & exercises](sessions/session1/exercises.md)
 
 </div>  
-[web:98]
 
 ## Next sessions (coming soon)
 
