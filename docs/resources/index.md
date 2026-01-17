@@ -22,7 +22,7 @@ This page collects the short videos and PDFs that support the training sessions.
       [Open / download](SLIDES_PDF_LINK)
 
     **Best next step**
-    - :material-play-circle-outline: Go practice on a spec excerpt: [Session 1 – Practice & exercises](sessions/session1/exercises.md)
+    - :material-play-circle-outline: Go practice on a spec excerpt: [Session 1 – Practice & exercises](../sessions/session1/exercises.md)
 
 </div>
 
