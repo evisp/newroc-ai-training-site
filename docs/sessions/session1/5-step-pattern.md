@@ -121,6 +121,7 @@ Verification: [Ask for references and note how you will check]
 ## Next steps
 
 In the next pages, we’ll use this pattern in live demos and group exercises:
+
 - See it applied: [Live demos](demos.md)
 - Try it yourself: [Practice & exercises](exercises.md)
 
