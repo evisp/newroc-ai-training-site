@@ -5,14 +5,14 @@ This is the main pattern we’ll use in all sessions. It turns talking to AI int
 ![AI Prompting Pattern](https://i.imgur.com/rCzisdL.png)
 
 !!! info "Use this when…"
-    You need a **verifiable** answer from a spec, contract, email thread, or meeting notes — and you want the output in a usable format (bullets/table), not a long paragraph.
+    You need a **verifiable** answer from a spec, contract, email thread, or meeting notes - and you want the output in a usable format (bullets/table), not a long paragraph.
 
 !!! warning "Non‑negotiables"
     - Keep scope small (one section / one excerpt at a time).
     - Require references (section/page) for anything you might reuse.
     - If the document doesn’t say it, the output must say **Not stated**.
 
-## 1) Task — what do you want?
+## 1) Task: what do you want?
 
 Start by asking for one clear action.
 
@@ -26,7 +26,7 @@ Examples:
 
 Keep it to one main task at a time. If you need more, ask again in a second prompt.
 
-## 2) Context — what are you working with?
+## 2) Context: what are you working with?
 
 Tell AI what the document is and why you care.
 
@@ -43,7 +43,7 @@ Example:
 
 Good context helps AI stay focused on your real situation, not a generic answer.
 
-## 3) Constraints — what should it focus on (or ignore)?
+## 3) Constraints: what should it focus on (or ignore)?
 
 Add a few simple limits so the answer stays tight and checkable.
 
@@ -60,7 +60,7 @@ Examples:
 
 Constraints keep the answer small, specific, and easier to check.
 
-## 4) Output format — how should the answer look?
+## 4) Output format: how should the answer look?
 
 Say how you want the answer presented so it’s ready to use.
 
@@ -78,7 +78,7 @@ Examples:
 
 If you don’t ask for a format, you may get a long, hard-to-use block of text.
 
-## 5) Verification — what will you double-check?
+## 5) Verification: what will you double-check?
 
 Finish by planning how you will check the answer.
 

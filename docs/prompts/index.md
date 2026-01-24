@@ -3,11 +3,13 @@
 Use this page as a quick reference for “what good looks like” when prompting on New Roc documents.
 
 !!! info "Where to find the full playbook"
-    The complete Prompt Playbook (all use cases + full Prompt Builder template) lives in [Google Drive](https://docs.google.com/document/d/1Yb-2WvCVzolVvYIPCQPl_bWH8yYfs_62r8xMiSMoH8Y/edit?usp=drive_link)
+    The complete Prompt Playbook (all use cases + full Prompt Builder template + data) lives in [Google Drive](https://docs.google.com/document/d/1Yb-2WvCVzolVvYIPCQPl_bWH8yYfs_62r8xMiSMoH8Y/edit?usp=drive_link)
 
 ## Session 1 examples
 
-Below are a few examples (bad prompt vs good prompt) to model the habits from Session 1: tight scope, job-ready output, and verification.
+Below are a few examples (bad prompt vs good prompt) based on real construction documents (spec sections/contract language) to show what **usable AI** output looks like in New Roc work. 
+
+The goal is to practice three habits: keep scope tight (one excerpt at a time), request a deliverable you can actually use (checklist/table/plan), and require references so you can verify the answer in the source before relying on it
 
 ??? example "Use case: Section 013300 - Submittal quick checklist + schedule template"
     **Goal:** Turn Section 013300 into a practical checklist and a “submittal schedule” table that PMs/supers can use during project setup.
@@ -268,5 +270,5 @@ Below are a few examples (bad prompt vs good prompt) to model the habits from Se
 ## Want the full Prompt Playbook?
 
 ??? info "More examples + full Prompt Builder (Google Drive)"
-    All use cases and the full Prompt Builder template are here:  
-    https://docs.google.com/document/d/1Yb-2WvCVzolVvYIPCQPl_bWH8yYfs_62r8xMiSMoH8Y/edit?usp=drive_link
+    All use cases and the full Prompt Builder template are [here](  
+    https://docs.google.com/document/d/1Yb-2WvCVzolVvYIPCQPl_bWH8yYfs_62r8xMiSMoH8Y/edit?usp=drive_link)
