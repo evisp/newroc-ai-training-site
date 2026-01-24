@@ -66,3 +66,6 @@ Ready-to-copy prompts and examples live here:
 
 !!! success "Remember"
     AI drafts and organizes; you review and decide. 
+
+
+![Emails](https://i.imgur.com/ajKE0BI.png)
