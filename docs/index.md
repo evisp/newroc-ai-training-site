@@ -1,37 +1,50 @@
 # Sessions overview
 
-This site is your attendee playbook for New Roc’s AI training  - short, practical, and built around real project documents.  
+This site is your attendee playbook for New Roc's AI training - short, practical, and built around real project documents. 
 
 !!! info "How to use this site"
-    - Start with **Session 1** and follow the pages in order (Overview → Fundamentals → 5-step pattern → Demos → Exercises).  
-    - Use the **Practice & exercises** page to build one repeatable habit: faster work **without guessing**.  
+    - Start with **Session 1** and follow the pages in order (Overview → Fundamentals → 5-step pattern → Demos → Exercises). 
+    - Use the **Practice & exercises** pages to build one repeatable habit: faster work **without guessing**. 
 
-## Session 1 (available now)
+## Session 1 
 
 <div class="grid cards" markdown>
 
--   :material-rocket-launch: **Session 1 – AI for everyday project work**  
-    Use AI as a helper on real specs, emails, and contracts  - with verification.  
+- :material-rocket-launch: **Session 1 – AI for everyday project work**   
+  Use AI as a helper on real specs, emails, and contracts - with verification (“No reference = not usable”). 
 
-    - [Overview](sessions/session1/index.md)  
-    - [What AI can and can’t do](sessions/session1/ai-fundamentals.md)  
-    - [5-step prompting pattern](sessions/session1/5-step-pattern.md)  
-    - [Live demos](sessions/session1/demos.md)  
-    - [Practice & exercises](sessions/session1/exercises.md)
+  - [Overview](sessions/session1/index.md)
+  - [What AI can and can't do](sessions/session1/ai-fundamentals.md)
+  - [5-step prompting pattern](sessions/session1/5-step-pattern.md)
+  - [Live demos](sessions/session1/demos.md)
+  - [Practice & exercises](sessions/session1/exercises.md)
 
-</div>  
+</div>
 
-## Next sessions (coming soon)
+## Session 2 
+
+<div class="grid cards" markdown>
+
+- :material-clipboard-check: **Session 2 – AI for contracts, specs, and safety (plus email)**   
+  Turn long PDFs into job-ready outputs (tables, checklists, trackers) that you can verify and reuse. 
+
+  - [Overview](sessions/session2/index.md)
+  - [Templates: good vs bad prompts](./prompts/index.md) 
+  - [Email module: fast replies + action extraction](sessions/session2/email.md) 
+  - [Use case: Contract intake checklist + red flags](sessions/session2/contracts.md) 
+  - [Use case: Spec → Submittal log (Excel-ready)](sessions/session2/specs-submittals.md) 
+  - [Use case: JHA / Pre-task plan hazards + mitigations](sessions/session2/jha-pretask.md) 
+
+</div>
+
+## Next session (coming soon)
 
 !!! warning "Coming soon"
-    Sessions 2 and 3 will be added week-by-week after we deliver Session 1.  
+    Session 3 will be added after Session 2 is delivered. 
 
-- **Session 2 – Understanding AI agents**  
-  See how AI can turn messy information into clearer updates and simple next steps.  
+- **Session 3 – AI Agents in your team's workflows**  
+  Apply the same patterns in estimating, management, and operations using real New Roc workflows and templates. 
 
-- **Session 3 – AI in your team’s workflows**  
-  Apply the same patterns in Estimating, Architecture, and Management.
-
-> Let AI handle the busywork, so you can focus on building the project  - not just the paperwork.
+> Let AI handle the busywork, so you can focus on building the project - not just the paperwork. 
 
 ![AI Assistant](https://i.imgur.com/7h2bwlM.png)
