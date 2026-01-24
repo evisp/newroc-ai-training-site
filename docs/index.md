@@ -11,8 +11,6 @@ This site is your attendee playbook for New Roc's AI training - short, practical
 <div class="grid cards" markdown>
 
 - :material-rocket-launch: **Session 1 – AI for everyday project work**   
-  Use AI as a helper on real specs, emails, and contracts - with verification (“No reference = not usable”). 
-
   - [Overview](sessions/session1/index.md)
   - [What AI can and can't do](sessions/session1/ai-fundamentals.md)
   - [5-step prompting pattern](sessions/session1/5-step-pattern.md)
@@ -26,8 +24,6 @@ This site is your attendee playbook for New Roc's AI training - short, practical
 <div class="grid cards" markdown>
 
 - :material-clipboard-check: **Session 2 – AI for contracts, specs, and safety**   
-  Turn long PDFs into job-ready outputs (tables, checklists, trackers) that you can verify and reuse. 
-
   - [Overview](sessions/session2/index.md)
   - [Templates: good vs bad prompts](./prompts/index.md) 
   - [Email module: fast replies + action extraction](sessions/session2/email.md) 
