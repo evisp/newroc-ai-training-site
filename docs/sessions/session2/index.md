@@ -1,27 +1,43 @@
-# Session 2 – Documents to Data: Excel tables + clear emails
+# Session 2 – AI for contracts, specs, and safety
 
-The goal of this session is to help you turn messy project information (PDFs, exports, markups, notes) into clean Excel tables and clear emails, without changing your main tools. 
+Use AI to turn long project documents into job‑ready outputs (tables, checklists, trackers) **without guessing** and without changing your main tools. 
 
-You'll see how to extract structured data from a long document, clean it fast in Excel, verify a few rows against the source, and then draft a short project update email that is accurate and easy to act on. 
+In this session we apply the same method from Session 1 to three high-value document types (contracts, specifications, and safety plans), plus a short email module for faster, clearer communication. 
 
-**Start here (10 minutes):** Learn the workflow → watch the demo → try one lab.
+!!! info "Start here (10 minutes)"
+    Skim the templates → pick one use case → follow the same workflow: extract → prompt → verify → save. 
 
-![Documents to Data Workflow](https://i.imgur.com/DGpuTrO.png)
+!!! warning "Golden rule for Session 2"
+    **No reference = not usable.** If the output doesn't point to the clause/section/page, verify it in the PDF or treat it as a draft only. 
 
+![Workflow](https://imgur.com/DGpuTrO)
 
-## What you’ll be able to do after Session 2
+## The method we will repeat
 
-- Extract selected pages/sections from a PDF or export into a copy‑paste‑ready table for Excel.  
-- Clean and validate the table (units, formats, basic checks) and spot‑check 2–3 rows against the source before using it.  
-- Draft a short status/coordination email from the cleaned table (subject + 3 key bullets + clear asks).  
-- Save an "evidence pack" note with the source link and the prompt used so your output is traceable.  
+- Extract: Work from one contract/spec/safety excerpt at a time (not the full book). 
+- Prompt: Use the 5-step pattern to demand a deliverable (table/checklist), not a paragraph. 
+- Verify: Require references and spot-check 2–3 items in the source PDF before using or sending. 
+- Save: Store the verified result where work lives, with a source link and any “Not stated / missing inputs.” 
+
+!!! success "What you should leave with"
+    - 1 reusable prompt (copy/paste) for your role. 
+    - 1 verified output (table/checklist) tied to clause/section/page references. 
+    - 1 saved note that includes the prompt, output, and source link so it can be reused. 
+
+## What you'll be able to do after Session 2
+
+- Break down a contract into a “contract intake” checklist + red flags (change order, payment/retainage, schedule, LDs, bonds/COI, exhibits/forms).
+- Turn relevant spec sections into an Excel-ready submittal log and requirement list (materials, mockups/samples, tests/inspections, warranties, timelines). 
+- Draft a JHA / pre-task plan hazard-mitigation matrix from a task description and uploaded safety inputs. 
 
 ## What's in this session
 
-- The workflow we'll use: [Extract → Clean → Check → Email](workflow.md)  
-- How it looks in practice: [Live demo](demos.md)  
-- Time to try it yourself: [Practice & exercises](exercises.md)  
-- Templates to reuse: [Checklists & email scaffolds](templates.md)  
+- Templates: [Good vs bad prompts](../../prompts/index.md) 
+- Email module: [Fast replies + action extraction](email.md) 
+- Use case: [Contract intake checklist + red flags](contracts.md) 
+- Use case: [Spec → Submittal log (Excel-ready)](specs-submittals.md) 
+- Use case: [JHA / Pre-task plan hazards + mitigations](jha-pretask.md) 
 
-> Clean tables plus clear emails reduce rework and speed up every handoff.  
+> Fast answers are helpful. Verified answers are usable. 
 
+![AI in Everyday Work](https://i.imgur.com/3b71ENR.png)
