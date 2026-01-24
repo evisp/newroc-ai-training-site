@@ -57,7 +57,8 @@ nav:
 
   - Templates:
     - Overview: prompts/index.md
-    - Emails: prompts/emails.md
+    - Emails: prompts/emails-prompts.md
+    - Contracts: prompts/contracts-prompts.md
 
 
 

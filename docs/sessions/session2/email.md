@@ -38,7 +38,7 @@ Before you send anything drafted by AI, do a “60-second check”:
 ## Templates & examples
 
 Ready-to-copy prompts and examples live here:
-- [Email templates (fast replies + action extraction)](../../prompts/emails.md)
+- [Email templates (fast replies + action extraction)](../../prompts/emails-prompts.md)
 
 
 ![Emails](https://i.imgur.com/akRkQ9u.png)
