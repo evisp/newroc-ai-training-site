@@ -43,12 +43,14 @@ nav:
     - 5-step prompting pattern: sessions/session1/5-step-pattern.md
     - Live demos: sessions/session1/demos.md
     - Practice & exercises: sessions/session1/exercises.md
-  #- Session 2 – Documents to Data Workflow: 
-  #  - Overview: sessions/session2/index.md
-  #  - Workflow: sessions/session2/workflow.md
-  #  - Live demo: sessions/session2/demos.md
-  #  - Practice & exercises: sessions/session2/exercises.md
-  #  - Templates: sessions/session2/templates.md
+
+  - Session 2 – AI for jobsite-ready outputs:
+    - Overview: sessions/session2/index.md
+    - Templates: good vs bad prompts: prompts/index.md
+    - Email module: fast replies + action extraction: sessions/session2/email.md
+    - Use case: Contract intake checklist + red flags: sessions/session2/contracts.md
+    - Use case: Spec → Submittal log (Excel-ready): sessions/session2/specs-submittals.md
+    - Use case: JHA / Pre-task plan hazards + mitigations: sessions/session2/jha-pretask.md
 
   - Resources:
     - Overview: resources/index.md

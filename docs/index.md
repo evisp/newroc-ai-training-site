@@ -25,7 +25,7 @@ This site is your attendee playbook for New Roc's AI training - short, practical
 
 <div class="grid cards" markdown>
 
-- :material-clipboard-check: **Session 2 – AI for contracts, specs, and safety (plus email)**   
+- :material-clipboard-check: **Session 2 – AI for contracts, specs, and safety**   
   Turn long PDFs into job-ready outputs (tables, checklists, trackers) that you can verify and reuse. 
 
   - [Overview](sessions/session2/index.md)
