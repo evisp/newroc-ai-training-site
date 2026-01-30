@@ -52,6 +52,8 @@ nav:
     - Use case Contract intake checklist + red flags: sessions/session2/contracts.md
     - Use case Spec → Submittal log (Excel-ready): sessions/session2/specs-submittals.md
     - Use case JHA / Pre-task plan hazards + mitigations: sessions/session2/jha-pretask.md
+    - Use case Estimating: sessions/session2/estimating.md
+
 
   - Resources:
     - Overview: resources/index.md
@@ -63,6 +65,8 @@ nav:
     - Contracts: prompts/contracts-prompts.md
     - JHA / Pre‑Task Plans: prompts/jha-prompts.md
     - Specifications documents: prompts/spec-prompts.md
+    - Estimating documents: prompts/estimating-prompts.md
+
 
 
 

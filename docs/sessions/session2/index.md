@@ -38,6 +38,8 @@ In this session we apply the same method from Session 1 to three high-value docu
 - Use case: [Spec → Submittal log (Excel-ready)](specs-submittals.md) 
 - Use case: [JHA / Pre-task plan hazards + mitigations](jha-pretask.md)  
 - Use case: [HR/Payroll → Eligibility](hr-payroll-eligibility.md)
+- Use case: [Estimating](estimating.md)
+
 
 
 > Fast answers are helpful. Verified answers are usable. 
