@@ -36,7 +36,9 @@ In this session we apply the same method from Session 1 to three high-value docu
 - Email module: [Fast replies + action extraction](email.md) 
 - Use case: [Contract intake checklist + red flags](contracts.md) 
 - Use case: [Spec → Submittal log (Excel-ready)](specs-submittals.md) 
-- Use case: [JHA / Pre-task plan hazards + mitigations](jha-pretask.md) 
+- Use case: [JHA / Pre-task plan hazards + mitigations](jha-pretask.md)  
+- Use case: [HR/Payroll → Eligibility](hr-payroll-eligibility.md)
+
 
 > Fast answers are helpful. Verified answers are usable. 
 
