@@ -29,14 +29,21 @@ For training, we use the [attached HSS install]() sequencing and tube layout MOP
 
     === "Good prompt (copy/paste)"
         ```text
-        Task: Turn the method/sequence text below into an activity-based JHA.
-        Context: This is for a pre-task briefing; keep it field-usable and specific to the steps described.
-        Constraints: Use only the pasted text; do not add outside standards; if a detail isn’t stated, write “Not stated.”
-        Output: A table with columns: Activity step | Where it happens | Hazards | Controls/Mitigations | PPE/Tools noted in text | Proof (quote 3–8 words + page/section label from my excerpt).
+        Task: Turn the method/sequence text below into an activity-based JHA / Pre‑Task Plan draft.
+        Context: Pre-task briefing; field-usable and specific to the steps described.
+        Constraints:
+        - Use only the pasted text; no outside standards/typical controls.
+        - If not stated, write “Not stated.”
+        - Don’t invent jobsite details or names; use TBD.
+        Output (in order):
+        1) Header block: Jobsite (TBD) | Address (TBD) | Specific activity (TBD) | Date (TBD) | Crew/Foreman (TBD) | Source (title + page labels)
+        2) JHA table: Activity step | Where | Hazards | Controls/Mitigations | PPE/Tools noted | Proof (3–8 word quote + page/section label)
+        3) Missing inputs needed (bullets)
+        Verification: Every row must include Proof; if you can’t support it from the text, mark “Not stated” and/or move it to Missing inputs.
         ```
 
         !!! tip "How to test on the attached files"
-            - Paste 1–2 sections at a time from the MOP (e.g., “Installation Rods” + “Installation Tubes”) so the output stays tight. ]
+            - Paste 1–2 sections at a time from the MOP (e.g., “Installation Rods” + “Installation Tubes”) so the output stays tight.
             - Include the sequencing steps (Step 1–4) if you want the table to reflect the work flow by survey plate levels/mast climber.
 
 
