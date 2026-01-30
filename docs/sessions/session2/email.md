@@ -24,7 +24,7 @@ The principles are the same in both: you provide the context and constraints, re
 
     - Fast reply drafting: produce a concise response with a clear ask, deadline, and next step (you still review and edit). 
     - Action extraction: turn an email thread into “actions / owner / due date / open questions” you can paste into notes or a tracker. 
-    - Status update from bullets: convert rough notes into a clean update email with 3–5 bullets, risks, and decisions needed. [file:2]
+    - Status update from bullets: convert rough notes into a clean update email with 3–5 bullets, risks, and decisions needed.
     - Tone cleanup: rewrite an email to be shorter, calmer, and more professional while keeping the same meaning (no new commitments). 
     - Meeting follow-up: draft a follow-up email that documents decisions and lists next steps, then verify against the notes/thread. 
 
@@ -38,6 +38,7 @@ Before you send anything drafted by AI, do a “60-second check”:
 ## Templates & examples
 
 Ready-to-copy prompts and examples live here:
+
 - [Email templates (fast replies + action extraction)](../../prompts/emails-prompts.md)
 
 

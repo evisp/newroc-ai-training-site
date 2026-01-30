@@ -12,7 +12,7 @@ AI can help you extract and organize those terms quickly, but it only stays safe
 ## Where AI helps
 
 Use AI as a text assistant to draft, structure, and organize contract information into job-ready outputs (tables/checklists) that your team can actually use.   
-Don’t use it as a “source of truth” for contract interpretation—AI can sound confident and still be wrong on details, which is why we require proof and verification. 
+Don’t use it as a “source of truth” for contract interpretation; AI can sound confident and still be wrong on details, which is why we require proof and verification. 
 
 ## What to look for
 
@@ -61,6 +61,7 @@ The next page contains short copy/paste prompts that generate these outputs from
 ## Templates & examples
 
 Ready-to-copy prompts and examples live here:
+
 - [Contracts examples](../../prompts/contracts-prompts.md)
 
 
@@ -68,4 +69,4 @@ Ready-to-copy prompts and examples live here:
     AI drafts and organizes; you review and decide. 
 
 
-![Emails](https://i.imgur.com/ajKE0BI.png)
+![Contracts](https://i.imgur.com/ajKE0BI.png)

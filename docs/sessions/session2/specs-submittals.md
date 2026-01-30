@@ -28,11 +28,11 @@ This page explains what's realistically achievable and where caution is needed.
 
 ### What AI struggles with on specs
 
-- **Reading the whole book** — 400+ pages at once creates errors and blind spots.
-- **Making final decisions** — Spec interpretation needs a human who knows your scope and risk tolerance.  
-- **Cross-checking contradictions** — If one section says one thing and another says another, you need to catch it yourself.  
-- **Understanding your internal priorities** — Only you know what's critical to your scope and means/methods.  
-- **Filling gaps with "typical practice"** — If the spec is silent, AI will guess; you must force "Not stated" instead.
+- **Reading the whole book** : 400+ pages at once creates errors and blind spots.
+- **Making final decisions** : Spec interpretation needs a human who knows your scope and risk tolerance.  
+- **Cross-checking contradictions** : If one section says one thing and another says another, you need to catch it yourself.  
+- **Understanding your internal priorities** : Only you know what's critical to your scope and means/methods.  
+- **Filling gaps with "typical practice"** : If the spec is silent, AI will guess; you must force "Not stated" instead.
 
 ## The realistic two-part workflow (no shortcuts)
 
@@ -68,7 +68,7 @@ This page explains what's realistically achievable and where caution is needed.
     | **Recommended Materials** | Brick (CMU per ASTM C-90), mortar (Type N per ASTM C-270), joint sealant (polyurethane per ASTM C-920) | 04 01 20, p. 48–50 |
     | **Manufacturers** | Brick: Acme Brick Co.; Mortar: Sakrete; Sealant: Dow Corning | 04 01 20, p. 49 |
     | **Allowed Substitutes** | Brick: "Other manufacturer equivalent if approved; submit with 3 completed projects" | 04 01 20, p. 49, subsection "Substitutions" |
-    | **LEED Requirements** | Not stated. | — |
+    | **LEED Requirements** | Not stated. | : |
     | **Tests & Inspections** | Compressive strength test (ASTM C-39) per 3000 units; bond strength per ASTM C-1006 | 04 01 20, p. 55 |
     | **Samples & Mockups** | Mortar sample (2 lbs); 4×4 ft mockup wall with full brick, mortar, and joint detail | 04 01 20, p. 60–61 |
     | **Warranty** | Contractor warranty: 5 years; Manufacturer brick warranty: 20 years | 04 01 20, p. 62 |

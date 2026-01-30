@@ -10,7 +10,7 @@ In this session we apply the same method from Session 1 to three high-value docu
 !!! warning "Golden rule for Session 2"
     **No reference = not usable.** If the output doesn't point to the clause/section/page, verify it in the PDF or treat it as a draft only. 
 
-![Workflow](https://imgur.com/DGpuTrO)
+![Workflow](https://i.imgur.com/DGpuTrO.png)
 
 ## The method we will repeat
 
