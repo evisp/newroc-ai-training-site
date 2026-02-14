@@ -88,6 +88,38 @@ Verification:
 List 5 items I should spot-check in the PDF before I use these hours in pricing.
 ```
 
+??? example "Worked example: Labor model from quantities + wage rates (Excel-ready)"
+    **Goal:** Turn a simple takeoff + wage rates into a first-pass hours + cost table you can adjust.
+
+    === "Prompt (copy/paste)"
+        ```text
+        Task: Build a labor-hours + labor-cost table from the quantities I provide.
+
+        Context:
+        - Project: Manhattan, NY
+        - Scope: Open shop masonry (CMU + brick) + mineral wool + air barrier + shelf angle system
+        - Labor rates: Mechanic $50/hr, Helper $40/hr
+        - Why: I want total hours per task and labor cost broken out by worker category.
+
+        Constraints:
+        - Use ONLY the scope + quantities I paste below.
+        - Do not assume production rates or crew split unless I provide them; if missing, write “Not stated” and ask me what to use.
+        - Output must be Excel-ready (CSV-style table).
+
+        Inputs (quantities):
+        - CMU: 870 LF x 17 ft high wall
+        - Brick: 14,790 SF
+        - 3" mineral wool insulation: 14,790 SF
+        - Air barrier membrane: 14,790 SF
+        - Shelf angle (FERO system): 870 LF
+
+        Output format:
+        Table columns:
+        Item | Qty | Unit | Crew split (Not stated unless provided) | Production (Not stated unless provided) |
+        Mechanic hours | Helper hours | Total hours | Mechanic cost | Helper cost | Total labor cost | Notes
+        ```
+
+
 
 ## What “good output” looks like
 
