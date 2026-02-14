@@ -56,12 +56,12 @@ nav:
   # Session 3 – AI for estimating (department mini-lab)
   - Session 3 – AI for estimating:
     - Overview: sessions/session3/index.md
-    - Setup: Projects + custom instructions: sessions/session3/projects.md
+    - Setup Projects + custom instructions: sessions/session3/projects.md
     - Products + systems summary (with proof): sessions/session3/products-systems.md
     - Exhibit A scope → responsibility + risk: sessions/session3/exhibit-a-risk.md
-    - Permits / debris / safety: who owns what: sessions/session3/who-owns-what.md
+    - Permits / debris / safety who owns what: sessions/session3/who-owns-what.md
     - Labor model (safe estimating prompt): sessions/session3/labor-model.md
-    - Capstone: Bid form submission package: sessions/session3/bid-form-package.md
+    - Capstone Bid form submission package: sessions/session3/bid-form-package.md
 
 
 
