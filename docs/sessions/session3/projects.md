@@ -1,8 +1,8 @@
 # Projects + custom instructions (Estimating)
 
-Projects let you keep bid work organized: the same documents, the same assumptions, and the same output format across multiple chats — without re-explaining everything each time.
+Projects let you keep bid work organized: the same documents, the same assumptions, and the same output format across multiple chats, without re-explaining everything each time.
 
-!!! info "Start here (3 minutes)"
+!!! info "Start here"
     1) Create a Project (one per bid/job).  
     2) Paste one of the “Project instructions” templates below into the Project instructions box.  
     3) In each chat: extract a small excerpt → ask for one deliverable → verify proof → save.
@@ -37,7 +37,7 @@ Keep your Project instructions short and practical:
 
 Choose one template and paste it into the **Project instructions** box.
 
-=== "Default (Bid package mode) — recommended"
+=== "Default (Bid package mode): recommended"
     ```text
     You are a senior construction estimator supporting bid form submission packages for façade / masonry / EIFS / waterproofing scopes.
 
@@ -106,7 +106,7 @@ Choose one template and paste it into the **Project instructions** box.
     - Missing inputs needed (max 10).
     ```
 
-=== "Labor model (safe — no invented productivity)"
+=== "Labor model (safe: no invented productivity)"
     ```text
     Act as a senior estimator building a labor-cost table.
 
@@ -127,7 +127,7 @@ Choose one template and paste it into the **Project instructions** box.
 - Start a new chat inside the Project.
 - Paste one excerpt at a time (one Exhibit A section, one spec section, or one checklist page range).
 - Ask for one deliverable at a time (one table), then iterate.
-- Spot-check 2–3 high-risk rows in the source (money / time / scope) before you reuse the output.
+- Spot-check 2-3 high-risk rows in the source (money / time / scope) before you reuse the output.
 - Save the verified table in your working folder/notes with a link to the source document and the date/version used.
 
 ## Common mistakes (and fixes)
