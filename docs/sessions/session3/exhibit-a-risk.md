@@ -37,11 +37,11 @@ Extract these **four buckets** every time:
 
 ## Repeatable workflow
 
-1) **Attach the Exhibit A PDF** (or paste 2–4 pages at a time if needed). 
-2) **Run “Exhibit Map” first**: list incorporated exhibits/attachments and where they appear in Exhibit A. 
-3) **Extract tables** (templates below) with “Proof” on every row.
-4) **Flag gaps**: missing referenced documents, undefined responsibilities, ambiguous boundaries. 
-5) **Escalate with questions**: generate a short, prioritized RFI/clarification list for JV/GC/Owner. 
+1. **Attach the Exhibit A PDF** (or paste 2–4 pages at a time if needed). 
+2. **Run “Exhibit Map” first**: list incorporated exhibits/attachments and where they appear in Exhibit A. 
+3. **Extract tables** (templates below) with “Proof” on every row.
+4. **Flag gaps**: missing referenced documents, undefined responsibilities, ambiguous boundaries. 
+5. **Escalate with questions**: generate a short, prioritized RFI/clarification list for JV/GC/Owner. 
 
 !!! success
     What you should leave with: one reusable prompt + one verified table/checklist tied to clause/page references + a saved note linking back to the source PDF. 
@@ -106,27 +106,22 @@ Goal: Produce a “missing inputs” list early (safety manual, insurance exhibi
 
 ```text
 Task
-
 - Create an Exhibit Map from the attached Exhibit A.
 
 Context
-
 - Project: [PROJECT NAME].
 - Document: [EXHIBIT NAME + DATE + REV].
 - This is for PM/field kickoff so we can find key requirements fast.
 
 Constraints
-
 - Use only the attached Exhibit A text.
 - Do not guess.
 - If the Exhibit A references another document we don’t have, write “Missing—need copy.”
 
 Output format
-
 - Table: Referenced document | Date (if stated) | What it controls (1 line) | Where referenced (clause/page).
 
 Verification
-
 - List 5 referenced documents/sections we must obtain or review before kickoff.
 ```
 
@@ -137,22 +132,18 @@ Goal: Surface coordination and “complete system” obligations that often driv
 
 ```text
 Task
-
 - Build a Scope of Work Breakdown from Exhibit A.
 
 Context
-
 - This is for kickoff and estimating alignment.
 - We need inclusions, exclusions, responsibilities, and deliverables.
 
 Constraints
-
 - Use only Exhibit A text.
 - Do not add typical trade scope.
 - If unclear or silent, write “Not stated.”
 
 Output format
-
 - Table with columns:
 - Scope line item | Included? | Excluded? | Owner (Sub/JV/Owner/TBD) | Deliverables | Dependencies/coordination | Proof (clause/page) | Notes.
 
@@ -168,24 +159,19 @@ Goal: Identify acceptance gates (e.g., “no payment until…”) so accounting 
 
 ```text
 Task
-
 - Extract a Deliverables Checklist and identify acceptance/payment gates stated in Exhibit A.
 
 Context
-
 - This is for PM + accounting handoff (avoid missing a required submission).
 
 Constraints
-
 - Use only Exhibit A text.
 - If timing is not stated, write “Not stated.”
 
 Output format
-
 - 1 table: Deliverable | Due timing | Who submits | Acceptance gate | Proof (clause/page).
 
 Verification
-
 - List the top 5 reasons payment/work authorization could be delayed based on Exhibit A language.
 ```
 
@@ -195,21 +181,17 @@ Goal: Generate a short set of clarification questions prioritized by cost/schedu
 
 ```text
 Task
-
 - Create a risk register and a clarification question list based only on Exhibit A.
 
 Context
-
 - We want early clarity on scope boundaries, coordination duties, schedule recovery exposure, and referenced docs we don’t have.
 
 Constraints
-
 - Use only Exhibit A.
 - Include “Trigger language (short)” and “Proof (clause/page)” on every row.
 - If it’s not stated, say so.
 
 Output format
-
 1) Risk table:
 Risk / open issue | Trigger language (short) | Impact (time/money/liability) | Mitigation / question | Owner | Proof (clause/page).
 2) 10 clarification questions, prioritized by cost/schedule risk.
