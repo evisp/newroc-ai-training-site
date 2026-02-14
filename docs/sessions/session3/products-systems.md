@@ -32,6 +32,7 @@ Paste this once at the start of your chat (or set as Custom Instructions for the
 
 !!! important
     **Session Custom Instructions (copy/paste):**
+    
     - Output as a **table only** (no narrative) unless asked. 
     - Every row must include: **System**, **Product/Component**, **Manufacturer (if stated)**, **Spec Section**, **Page**. 
     - Do not guess. If not explicit, write **“Not stated.”** 
