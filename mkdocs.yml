@@ -36,14 +36,14 @@ theme:
 nav:
   - Home: index.md
 
-  - Session 1 – AI for everyday project work:
+  - AI Fundamentals:
     - Overview: sessions/session1/index.md
     - What AI can and can’t do: sessions/session1/ai-fundamentals.md
     - 5-step prompting pattern: sessions/session1/5-step-pattern.md
     - Live demos: sessions/session1/demos.md
     - Practice & exercises: sessions/session1/exercises.md
 
-  - Session 2 – AI for jobsite-ready outputs:
+  - AI Workflows:
     - Overview: sessions/session2/index.md
     - Templates good vs bad prompts: prompts/index.md
     - Email module fast replies + action extraction: sessions/session2/email.md
@@ -53,8 +53,7 @@ nav:
     - Use case JHA / Pre-task plan hazards + mitigations: sessions/session2/jha-pretask.md
     - Use case Estimating: sessions/session2/estimating.md
 
-  # Session 3 – AI for estimating (department mini-lab)
-  - Session 3 – AI for estimating:
+  - AI for Estimating:
     - Overview: sessions/session3/index.md
     - Setup Projects + custom instructions: sessions/session3/projects.md
     - Products + systems summary (with proof): sessions/session3/products-systems.md

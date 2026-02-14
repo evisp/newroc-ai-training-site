@@ -1,4 +1,4 @@
-# Session 3 – AI for estimating (department mini-lab)
+# Session 3 – AI for estimating
 
 Use AI to turn bid documents into an estimate-ready **bid form submission package** (scope, products, responsibilities, risks, clarifications) **without guessing** and without changing your main tools.  
 
