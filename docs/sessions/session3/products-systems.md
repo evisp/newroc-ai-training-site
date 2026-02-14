@@ -3,8 +3,8 @@
 This guideline helps you build a **defensible products/systems list** from any construction document set by extracting only what is explicitly specified and tagging each line with **Section + Page proof**.  
 
 
-> [!NOTE]
-> This page is **generic and reusable across projects**. It includes a worked example using *445 E 80th St – Facade Repairs*. 
+!!! note
+    This page is **generic and reusable across projects**. It includes a worked example using *445 E 80th St – Facade Repairs*.
 
 
 ## Goal
@@ -23,22 +23,20 @@ When you must attach the full manual, tell ChatGPT exactly which **section numbe
 - Preferred: **Printed spec page id** (e.g., `040120-7`, `09870-4`, `079200-1`). 
 - If no printed id exists: use **PDF page number** and label it `PDF p.__`.
 
-> [!WARNING]
-> Do not accept outputs without proof (Section + Page). If there’s no proof, it becomes opinion; not documentation.
-
+!!! warning
+    Do not accept outputs without proof (**Section + Page**). If there’s no proof, it becomes opinion; not documentation.
 
 ## Session reminder: Custom Instructions
 
 Paste this once at the start of your chat (or set as Custom Instructions for the session).
 
-> [!IMPORTANT]
-> **Session Custom Instructions (copy/paste):**
->
-> - Output as a **table only** (no narrative) unless asked.
-> - Every row must include: **System**, **Product/Component**, **Manufacturer (if stated)**, **Spec Section**, **Page**.
-> - Do not guess. If not explicit, write **“Not stated.”**
-> - Use the document’s **printed page id** when available; otherwise use **PDF p.__**.
-> - This page is **products/systems only**; exclude temporary works / general conditions (we cover those elsewhere). 
+!!! important
+    **Session Custom Instructions (copy/paste):**
+    - Output as a **table only** (no narrative) unless asked. 
+    - Every row must include: **System**, **Product/Component**, **Manufacturer (if stated)**, **Spec Section**, **Page**. 
+    - Do not guess. If not explicit, write **“Not stated.”** 
+    - Use the document’s **printed page id** when available; otherwise use **PDF p.__**. 
+    - This page is **products/systems only**; exclude temporary works / general conditions (we cover those elsewhere). 
 
 ## Table format (standard)
 
@@ -53,8 +51,8 @@ Use this table shape in every project:
 
 In the 445 E 80th Street Project Manual, the Table of Contents shows these relevant sections: **040120.91 Masonry Restoration**, **079200 Joint Sealants**, **098700 Coatings**, and **00005 Unit Prices**. 
 
-> [!NOTE]
-> You can repeat the same process on other projects by swapping: (1) the document name, (2) the target section number, and (3) the number of rows requested.
+!!! note
+    You can repeat the same process on other projects by swapping: (1) the document name, (2) the target section number, and (3) the number of rows requested. 
 
 
 ## Output 1 — Masonry Restoration (3 rows)
@@ -157,5 +155,5 @@ Rules:
 - Use the printed page id if available; otherwise use PDF p.__.
 ```
 
-> [!WARNING]
-> If this “scope adders” line includes items like sealant/primer/fasteners/flashings, your estimate and clarifications must treat them as included unless you explicitly qualify otherwise. 
+!!! warning
+    If this “scope adders” line includes items like sealant/primer/fasteners/flashings, your estimate and clarifications must treat them as included unless you explicitly qualify otherwise.
