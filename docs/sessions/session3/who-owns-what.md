@@ -180,4 +180,3 @@ Verification
 ??? example "Illustration sources"
     Exhibit A example: **50 Hudson Street — JV Exhibit A (EIFS)** includes broad responsibilities (“provide… permits… protection… insurance”), explicit safety/protection requirements, and explicit permit/approval duties with fees/reimbursements.   
     Division 01 / conditions example: **445 E 80th Street — Project Manual** includes contractor responsibility to procure/pay permit-related fees and to legally dispose of waste with daily removal/cleanup language. 
-```
