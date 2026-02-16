@@ -55,7 +55,6 @@ nav:
 
   - AI for Estimating:
     - Overview: sessions/session3/index.md
-    - Overall document summary: sessions/session3/document-summary.md
     - Setup Projects + custom instructions: sessions/session3/projects.md
     - Estimating Overview STM: sessions/session3/estimating-overview-stm.md
     - Products + systems summary (with proof): sessions/session3/products-systems.md
