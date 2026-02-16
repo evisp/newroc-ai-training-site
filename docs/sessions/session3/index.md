@@ -31,13 +31,13 @@ In this session we apply the same method from Sessions 1–2 to estimating work:
 - Assemble the above into a bid form submission package that is organized, checkable, and defendable. 
 
 ## What's in this session
+- Setup: [Projects + custom instructions](projects.md)
+- Module: [Products + systems summary (with proof)](products-systems.md)
+- Module: [Estimating Overview STM](estimating-overview-stm.md)
+- Module: [Permits / debris / safety: who owns what](who-owns-what.md)
+- Module: [Exhibit A scope → responsibility + risk](exhibit-a-risk.md)
+- Module: [Labor model (safe estimating prompt)](labor-model.md)
 
-- Setup: [Projects + custom instructions](projects.md) 
-- Module: [Products + systems summary (with proof)](products-systems.md) 
-- Module: [Exhibit A scope → responsibility + risk](exhibit-a-risk.md) 
-- Module: [Permits / debris / safety: who owns what](who-owns-what.md) 
-- Module: [Labor model (safe estimating prompt)](labor-model.md) 
-- Capstone: [Bid form submission package](bid-form-package.md) 
 
 > Fast bid summaries are helpful. Verified bid packages are usable.
 

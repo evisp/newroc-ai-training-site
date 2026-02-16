@@ -57,13 +57,11 @@ nav:
     - Overview: sessions/session3/index.md
     - Overall document summary: sessions/session3/document-summary.md
     - Setup Projects + custom instructions: sessions/session3/projects.md
+    - Estimating Overview STM: sessions/session3/estimating-overview-stm.md
     - Products + systems summary (with proof): sessions/session3/products-systems.md
     - Exhibit A scope → responsibility + risk: sessions/session3/exhibit-a-risk.md
     - Permits / debris / safety who owns what: sessions/session3/who-owns-what.md
     - Labor model (safe estimating prompt): sessions/session3/labor-model.md
-    - Capstone Bid form submission package: sessions/session3/bid-form-package.md
-
-
 
   - Resources:
     - Overview: resources/index.md
