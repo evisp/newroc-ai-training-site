@@ -37,6 +37,8 @@ In this session we apply the same method from Sessions 1–2 to estimating work:
 - Module: [Permits / debris / safety: who owns what](who-owns-what.md)
 - Module: [Exhibit A scope → responsibility + risk](exhibit-a-risk.md)
 - Module: [Labor model (safe estimating prompt)](labor-model.md)
+- Module: [Facade Restoration Proposal](facade-restoration-proposal.md)
+
 
 
 > Fast bid summaries are helpful. Verified bid packages are usable.
